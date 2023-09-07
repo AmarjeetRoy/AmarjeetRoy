@@ -69,9 +69,5 @@
 </h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/AmarjeetRoy/count.svg" alt="Visitor Count">
-</p>
-
-<p align="center">
   ⭐️ From <a href="https://github.com/AmarjeetRoy">Amarjeet Roy</a>
 </p>
