@@ -12,7 +12,7 @@
       </path>
     </svg>
   </a>
-  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="25" style="max-width: 100%;">
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30" style="max-width: 100%;">
   <strong>About Me:</strong>
 </h2>
 
