@@ -19,6 +19,9 @@
   I'm an individual with a fervent passion for data analysis and web development. My journey is highlighted by two standout personal projects, each serving as a testament to my technical prowess and project leadership.
 </p>
 
+<br>
+
+
  <h2 dir="auto"><a id="user-content--languages--tools" class="anchor" href="#-languages--tools" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966"><img src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" width="40" style="max-width: 100%;"></a> <strong>Languages &amp; Tools:</strong></h2>
  
  <p align="center" dir="auto">  
@@ -35,7 +38,7 @@
     <a href="https://www.microsoft.com/en-in/microsoft-365/excel" rel="nofollow"><img src="https://camo.githubusercontent.com/6210c820aedc56cac0ff68310216858a28e267c72fbdc89700167caafe3606f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6d6963726f736f66742d657863656c2d323031392e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" width="50" height="55" style="max-width: 100%;"> </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" rel="nofollow"> <img src="https://camo.githubusercontent.com/c24d399e4e3f39d7d5a118314f185e5974d3eaeb05181054a0ea8bb34f3cc3f5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d706f776572706f696e742d323031392d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" width="55" height="55"  style="max-width: 100%;"></a>
  <br>
- <br>
+<br>
 
 <h2>📊 GitHub Profile Stat</h2>
 
