@@ -35,8 +35,23 @@
    <a href="https://powerbi.microsoft.com/en-in/desktop/"  rel="nofollow"> <img src="https://user-images.githubusercontent.com/137817362/266267984-ab3e4a04-0d60-45e1-bf3a-57b038ee1427.png" height="48" alt="[PowerBiDesktop]" >
     <a href="https://www.microsoft.com/en-in/microsoft-365/excel" rel="nofollow"><img src="https://camo.githubusercontent.com/6210c820aedc56cac0ff68310216858a28e267c72fbdc89700167caafe3606f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6d6963726f736f66742d657863656c2d323031392e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" width="50" height="55" style="max-width: 100%;"> </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" rel="nofollow"> <img src="https://camo.githubusercontent.com/c24d399e4e3f39d7d5a118314f185e5974d3eaeb05181054a0ea8bb34f3cc3f5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d706f776572706f696e742d323031392d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" width="55" height="55"  style="max-width: 100%;"></a>
+ <br>
+ <br>
 
+<h2>📊 GitHub Profile Stat</h2>
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<a href="https://github.com/AmarjeetRoy/github-readme-stats"><img alt="AmarjeetRoy's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=AmarjeetRoy&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarjeetRoy&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=400&langs_count=8&height=192px)](https://github.com/AmarjeetRoy/github-readme-stats)
+<br/>
+     
+<h2>🏅 GitHub Achievements 🏅</h2>
+<p>
+  <a href="https://github.com/AmarjeetRoy?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120" style="max-width: 100%;">
+  </a>
+</p>
 
 
  </p>
@@ -53,13 +68,6 @@
 
 
 
-<h2>📊 GitHub Profile Stat</h2>
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-<a href="https://github.com/AmarjeetRoy/github-readme-stats"><img alt="AmarjeetRoy's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=AmarjeetRoy&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarjeetRoy&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=400&langs_count=8&height=192px)](https://github.com/AmarjeetRoy/github-readme-stats)
-<br/>
 
 <br>
 
