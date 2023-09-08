@@ -82,5 +82,5 @@
 
 <!-- New Section -->
 <p align="center">
-  ⭐️ From <a href="https://github.com/AmarjeetRoy">Amarjeet Roy</a>
+  ❤️ From <a href="https://github.com/AmarjeetRoy">Amarjeet Roy</a>
 </p>
