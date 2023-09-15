@@ -61,10 +61,10 @@
 
 <h2>📊 GitHub Profile Stats</h2>
 <div style="display: flex; justify-content: space-between;">
-    <a style="flex: 1; margin-right: 100px;">
+    <a style="flex: 1; margin-right: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=AmarjeetRoy&&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&rank_icon=github" height="192px"/>
     </a>  
-  <a style="flex: 1; margin-left: 100px;">
+  <a style="flex: 1; margin-left: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarjeetRoy&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=F8D866&card_width=400&langs_count=8" height="192px"/>
     </a>
 </div>
