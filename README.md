@@ -23,8 +23,6 @@
 <p align="center">
   
 - 👨‍💻Passionate Data Explorer on a quest to decode the stories hidden within bytes and numbers 📊. 
-  
-- Turning data into insights, one line of code at a time.
 
 - 🧙‍♂️ Data Alchemist 🖥️ | Code Conjurer 📈 | Insight Enthusiast 🌍 | On a mission to transform raw data into gold for a better world.
 
@@ -60,12 +58,15 @@
 <!-- New Section -->
 
 
-<h2>📊 GitHub Profile Stat</h2>
-
-<a><img src="https://github-readme-stats.vercel.app/api/?username=AmarjeetRoy&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarjeetRoy&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=400&langs_count=8&height=192px)](https://github.com/AmarjeetRoy/github-readme-stats)
-<br/>
-
+<h2>📊 GitHub Profile Stats</h2>
+<div style="display: flex; justify-content: space-between;">
+    <a style="flex: 1; margin-right: 100px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=AmarjeetRoy&&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&rank_icon=github" height="192px"/>
+    </a>  
+  <a style="flex: 1; margin-left: 100px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarjeetRoy&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=F8D866&card_width=400&langs_count=8" height="192px"/>
+    </a>
+</div>
 
 
 <!-- New Section -->  
