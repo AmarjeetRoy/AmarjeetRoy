@@ -45,7 +45,7 @@ I'm enthusiastic about collaborating with fellow data enthusiasts, researchers, 
 
 🚀 **Project Showcase:**
 
-My repository features a collection of projects that showcase my data science skills and knowledge.
+My repository features a collection of [`projects`](#projects) that showcase my data science skills and knowledge.
 
 ✨ **Action-Oriented Approach:**
 
@@ -105,18 +105,26 @@ If you are interested in contributing to the enhancement of my projects, have su
 
 
 <!-- New Section -->
-
-<h2>⚗️ Projects</h2>
-<div style="display: flex; justify-content: space-between;">
-  <a style="flex: 1; margin-right: 10px;" href="https://github.com/AmarjeetRoy/California_Housing_Trends">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=California_Housing_Trends&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=400" height="170x />
-  </a>
+<details>
+  <summary><a id="projects"></a><h2>⚗️ Projects</h2></summary>
+  <div style="display: flex; justify-content: space-between;">
+    <a style="flex: 1; margin-right: 10px;" href="https://github.com/AmarjeetRoy/California_Housing_Trends">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=California_Housing_Trends&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=400" height="170px" />
+    </a>
   
   <a href="https://github.com/AmarjeetRoy/InstaHyre-Job-Analytics-Machine-Learning-">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=InstaHyre-Job-Analytics-Machine-Learning-&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=400" height="170px  />
-  </a>
-</div>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=InstaHyre-Job-Analytics-Machine-Learning-&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=400" height="170px" />
+    </a>
+  
+  <a href="https://github.com/AmarjeetRoy/Vegetable_Market_Analysis">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=Vegetable_Market_Analysis&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=400" height="170px" />
+    </a>
+  </div>
+</details>
+
       
+
+<br>
 
 
 
@@ -128,6 +136,7 @@ If you are interested in contributing to the enhancement of my projects, have su
 <a href="mailto:amarjeetroy029@gmail.com"><img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67"  height="50" ></a>
 <a href="https://www.hackerrank.com/amarjeetroy029" ><img src="https://user-images.githubusercontent.com/137817362/266239493-4e65699f-6e11-488f-9af9-f50b54fa5a3f.png"  height="50" ></a>
 </p>
+
 <br>
 
 
