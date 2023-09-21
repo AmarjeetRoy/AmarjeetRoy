@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/137817362/266265617-66d80332-4e11-43bb-ad4b-6f9e55cb2bcd.gif" style="display: inline-block; margin: 0 auto; width:1200px;">
+  <img src="https://github.com/AmarjeetRoy/AmarjeetRoy/assets/137817362/3c5b655e-863a-40f5-bd39-c847e8e75d04" style="display: inline-block; margin: 0 auto; width:1200px;">
 </p>
 
 
@@ -13,24 +13,44 @@
 
 <!-- New Section -->
 <h2 dir="auto">
-  <img src="https://user-images.githubusercontent.com/137817362/266587333-f3543d44-2b8b-4a7b-81eb-4804c0aeb9a4.gif" width="25" style="max-width: 100%;">
+  <img src="https://github.com/AmarjeetRoy/AmarjeetRoy/assets/137817362/c52604af-66f1-403d-a315-5df459790f4a" width="25" style="max-width: 100%;">
   <strong>About Me:</strong>
 </h2>
 
 
 
 <!-- New Section -->
-<p align="center">
-  
-- 👨‍💻Passionate Data Explorer on a quest to decode the stories hidden within bytes and numbers 📊. 
 
-- 🧙‍♂️ Data Alchemist 🖥️ | Code Conjurer 📈 | Insight Enthusiast 🌍 | On a mission to transform raw data into gold for a better world.
+👋 **Hello there!**
 
-- 🌊 Diving deep into data oceans, crafting data-driven narratives that empower informed decisions 🚀.
+I'm a passionate data science student with a strong proficiency in Python, Numpy, Pandas, and SQL, particularly in handling intricate queries.
 
-- 🌟 Fueling innovation with data sorcery. Enthusiastically dissecting datasets, unveiling trends, and building bridges between data and decisions.
+📊 **Skills:**
 
-- 🔍 Exploring the data universe, armed with Python, SQL, and a passion for problem-solving. Join me on this journey of discovery! 🌌🚀
+I possess a rock-solid foundation in data analysis and manipulation, equipped with the ability to tackle complex datasets. My expertise extends to statistical analysis and machine learning, although I consider myself at an intermediate level in these domains.
+
+🎯 **Learning Objectives:**
+
+- My goals include:
+
+- Strengthening my SQL and database management skills.
+- Deepening my understanding of machine learning, deep learning, and practical applications.
+- Exploring NLP techniques for sentiment analysis and text generation.
+- Comprehending data warehousing strategies.
+- Investigating data pipeline development.
+
+🤝 **Collaboration:**
+
+I'm enthusiastic about collaborating with fellow data enthusiasts, researchers, and professionals in these areas while remaining eager to expand my knowledge and explore new concepts.
+
+🚀 **Project Showcase:**
+
+My repository features a collection of projects that showcase my data science skills and knowledge.
+
+✨ **Action-Oriented Approach:**
+
+If you are interested in contributing to the enhancement of my projects, have suggestions for improvement, or seek collaboration on data science-related endeavors, please feel free to reach out. I am dedicated to actively participating in collaborative efforts and mutual learning.
+
 </p>
 
 <br>
@@ -85,7 +105,7 @@
 <!-- New Section -->
 <h2 dir="auto"></a><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" ></a> <strong>Reach out to me:</strong> </h2>
 <p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/amarjeetroy0/" ><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" ></a>
+<a href="https://www.linkedin.com/in/amarjeetroy/" ><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" ></a>
 <a href="mailto:amarjeetroy029@gmail.com"><img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67"  height="50" ></a>
 <a href="https://www.hackerrank.com/amarjeetroy029" ><img src="https://user-images.githubusercontent.com/137817362/266239493-4e65699f-6e11-488f-9af9-f50b54fa5a3f.png"  height="50" ></a>
 </p>
