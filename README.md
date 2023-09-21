@@ -103,6 +103,9 @@ If you are interested in contributing to the enhancement of my projects, have su
 </p>
 
 
+
+<!-- New Section -->
+
 <h2>⚗️ Projects</h2>
 <div style="display: flex; justify-content: space-between;">
   <a style="flex: 1; margin-right: 10px;" href="https://github.com/AmarjeetRoy/California_Housing_Trends">
@@ -113,9 +116,8 @@ If you are interested in contributing to the enhancement of my projects, have su
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=InstaHyre-Job-Analytics-Machine-Learning-&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=400" height="170px  />
   </a>
 </div>
+      
 
-
-<br><br>
 
 
 
