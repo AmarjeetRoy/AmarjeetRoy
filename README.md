@@ -88,18 +88,18 @@ If you're interested in contributing, have suggestions, or seek collaboration on
 
 
 <!-- New Section -->
-  <summary><a id="projects"></a><h2>⚗️ Projects</h2></summary>
+<a id="projects"></a><h2>⚗️ Projects</h2>
   <div style="display: flex; justify-content: space-between;">
     <a style="flex: 1; margin-right: 10px;" href="https://github.com/AmarjeetRoy/California_Housing_Trends">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=California_Housing_Trends&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=400" height="170px" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=California_Housing_Trends&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=350" height="170px" />
     </a>
   
   <a href="https://github.com/AmarjeetRoy/InstaHyre-Job-Analytics-Machine-Learning-">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=InstaHyre-Job-Analytics-Machine-Learning-&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=400" height="170px" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=InstaHyre-Job-Analytics-Machine-Learning-&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=350" height="170px" />
     </a>
   
   <a href="https://github.com/AmarjeetRoy/Vegetable_Market_Analysis">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=Vegetable_Market_Analysis&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=400" height="170px" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=Vegetable_Market_Analysis&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=350" height="170px" />
     </a>
   </div>
 
