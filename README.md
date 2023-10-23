@@ -91,15 +91,15 @@ If you're interested in contributing, have suggestions, or seek collaboration on
 <a id="projects"></a><h2>⚗️ Projects</h2>
   <div style="display: flex; justify-content: space-between;">
     <a style="flex: 1; margin-right: 10px;" href="https://github.com/AmarjeetRoy/California_Housing_Trends">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=California_Housing_Trends&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=300" height="140px" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=California_Housing_Trends&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=320" height="150px" />
     </a>
   
   <a href="https://github.com/AmarjeetRoy/InstaHyre-Job-Analytics-Machine-Learning-">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=InstaHyre-Job-Analytics-Machine-Learning-&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=300" height="140px" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=InstaHyre-Job-Analytics-Machine-Learning-&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=320" height="150px" />
     </a>
   
   <a href="https://github.com/AmarjeetRoy/Vegetable_Market_Analysis">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=Vegetable_Market_Analysis&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=300" height="140px" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetRoy&repo=Vegetable_Market_Analysis&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&card_width=320" height="150px" />
     </a>
   </div>
 
