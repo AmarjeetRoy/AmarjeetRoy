@@ -23,33 +23,16 @@
 
 👋 **Hello there!**
 
-I'm a passionate data science student with a strong proficiency in Python, Numpy, Pandas, and SQL, particularly in handling intricate queries.
+- 📚 Data science student with a strong proficiency in Python, Numpy, Pandas, and SQL.
+- 📊 Skills: Rock-solid foundation in data analysis and manipulation, expertise in statistical analysis, and intermediate-level knowledge in machine learning.
+- 🎯 Learning Objectives: Enhance SQL and database management skills, deepen expertise in machine learning, explore NLP techniques, comprehend data warehousing strategies, investigate data pipeline development.
+- 🤝 Open to collaboration with data enthusiasts, researchers, and professionals.
+- 🚀 Project Showcase: Check out my repository featuring a collection of [`projects`](#projects) that showcase my data science skills and knowledge.
 
-📊 **Skills:**
+<h2>🌟 Action-Oriented Approach:</h2>
 
-I possess a rock-solid foundation in data analysis and manipulation, equipped with the ability to tackle complex datasets. My expertise extends to statistical analysis and machine learning, although I consider myself at an intermediate level in these domains.
+If you're interested in contributing, have suggestions, or seek collaboration on data science projects, feel free to [`reach out`](#reach-out-to-me). I'm dedicated to collaborative efforts and mutual learning.
 
-🎯 **Learning Objectives:**
-
-- My goals include:
-
-- Strengthening my SQL and database management skills.
-- Deepening my understanding of machine learning, deep learning, and practical applications.
-- Exploring NLP techniques for sentiment analysis and text generation.
-- Comprehending data warehousing strategies.
-- Investigating data pipeline development.
-
-🤝 **Collaboration:**
-
-I'm enthusiastic about collaborating with fellow data enthusiasts, researchers, and professionals in these areas while remaining eager to expand my knowledge and explore new concepts.
-
-🚀 **Project Showcase:**
-
-My repository features a collection of [`projects`](#projects) that showcase my data science skills and knowledge.
-
-✨ **Action-Oriented Approach:**
-
-If you are interested in contributing to the enhancement of my projects, have suggestions for improvement, or seek collaboration on data science-related endeavors, please feel free to reach out. I am dedicated to actively participating in collaborative efforts and mutual learning.
 
 </p>
 
@@ -130,7 +113,10 @@ If you are interested in contributing to the enhancement of my projects, have su
 
 
 <!-- New Section -->
-<h2 dir="auto"></a><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" ></a> <strong>Reach out to me:</strong> </h2>
+<h2 id="reach-out-to-me">
+  <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" >
+  <strong>Reach out to me:</strong>
+</h2>
 <p align="center" dir="auto">
 <a href="https://www.linkedin.com/in/amarjeetroy/" ><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" ></a>
 <a href="mailto:amarjeetroy029@gmail.com"><img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67"  height="50" ></a>
