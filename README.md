@@ -29,6 +29,8 @@
 - 🤝 Open to collaboration with data enthusiasts, researchers, and professionals.
 - 🚀 Project Showcase: Check out my repository featuring a collection of [`projects`](#projects) that showcase my data science skills and knowledge.
 
+<br>
+
 <h2>🌟 Action-Oriented Approach:</h2>
 
 If you're interested in contributing, have suggestions, or seek collaboration on data science projects, feel free to [`reach out`](#reach-out-to-me). I'm dedicated to collaborative efforts and mutual learning.
